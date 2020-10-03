@@ -1,8 +1,8 @@
-### Arthur Castilhos here 👋
+### Arthur Castilhos here! 👋
 
 💻 Creating some open source projects since 2020 <br>
 📱 Mobile development enthusiast <br>
-🇧🇷 Born and live in Porto Alegre, Brazil <br>
+🇧🇷 Born and live in Porto Alegre, Brazil 
 
 ### What I'm working on 👨‍💻
 
