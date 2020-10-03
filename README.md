@@ -6,7 +6,7 @@
 
 ### What I'm working on 👨‍💻
 
-Helping ancaps around the world with AncapHub Mobile
+Gathering ancaps around the world with AncapHub Mobile
 
 ### Find me elsewhere 🌎
 
