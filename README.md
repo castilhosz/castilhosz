@@ -1,16 +1,15 @@
-### Hi there 👋
+### Arthur Castilhos here 👋
 
-<!--
-**arthrc/arthrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Creating some open source projects since 2020
+📱 Mobile development enthusiast 
+🇧🇷 Born and live in Porto Alegre, Brazil <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Helping ancaps around the world with AncapHub Mobile
+
+### Find me elsewhere 🌎
+
+🐦 [Twitter](https://twitter.com/_arthrc_) <br>
+📸 [Instagram](https://instagram.com/_arthrc_) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/arthur-castilhos-78285a1b5/) <br>
