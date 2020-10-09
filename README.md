@@ -1,12 +1,8 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./.github/lobinho.gif" width="px">
-   <br><br>
   <samp>
     👋 Hi there! I'm a Mobile Developer
   </samp>
-  <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
-  
 </p>
 
 <!-- ABOUT OF ME -->
