@@ -12,4 +12,4 @@ Gathering ancaps around the world with <a href='https://github.com/arthrc/AncapH
 
 🐦 [Twitter](https://twitter.com/_arthrc_) <br>
 📸 [Instagram](https://instagram.com/_arthrc_) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/arthur-castilhos-78285a1b5/) <br>
+💼 [LinkedIn](https://linkedin.com/in/arthrc) <br>
