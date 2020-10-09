@@ -6,7 +6,7 @@
 
 ### What I'm working on 👨‍💻
 
-Help people track your package and provide a simple way to see where it is <a href='https://github.com/arthrc/PacklyNew'>Packly</a>
+Help people track your package and provide a simple way to see where it is with <a href='https://github.com/arthrc/PacklyNew'>Packly</a>
 
 ### Find me elsewhere 🌎
 
