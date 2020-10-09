@@ -12,7 +12,7 @@ Hi dear, my name is Arthur Castilhos and I'm currently 15 years old,<br> I'm wor
 <!-- QUOTE -->
 <br>
 <p align="center">
-"No one does when they begin, ideas dont come out fully forms,<br> They only become clear as you work on that. you just have to get started"
+"No one does when they begin, ideas dont come out fully formed,<br> they only become clear as you work on that. you just have to get started"
 <br>
 ― Mark Zuckerberg
 </p>
