@@ -7,7 +7,7 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hi dear, my name is Arthur Castilhos and I'm currently 14 years old,<br> I'm working on <a href="https://github.com/arthrc/packlyNew">Packly</a> dHelp people track your package and provide <br> a simple way to see where it is. I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> <br> and last but not least <a href="https://www.typescriptlang.org/">Typescript</a> 
+Hi dear, my name is Arthur Castilhos and I'm currently 15 years old,<br> I'm working on <a href="https://github.com/arthrc/packlyNew">Packly</a> dHelp people track your package and provide <br> a simple way to see where it is. I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> <br> and last but not least <a href="https://www.typescriptlang.org/">Typescript</a> 
 </p>
 <!-- QUOTE -->
 <br>
