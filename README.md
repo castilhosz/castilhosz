@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <p align="center">
   <samp>
-    👋 Hi there! I'm a Mobile Developer
+    👋 Hi there! I write some codes!
   </samp>
 </p>
 
