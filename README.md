@@ -30,7 +30,7 @@ Hi dear, my name is Arthur Castilhos and I'm currently 15 years old,<br> I'm wor
 </p>
 
 <p align="center">
-<a href="https://twitter.com/_arthrc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_arthrc_" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/arthrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthrc" height="20" width="20" /></a>
-<a href="https://instagram.com/_arthrc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="miguelrisquelme" height="20" width="20" /></a>
+<a href="https://twitter.com/arthrrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_arthrc_" height="20" width="20" /></a>
+<a href="https://www.instagram.com/arthrrc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthrc" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/arthrc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="miguelrisquelme" height="20" width="20" /></a>
 </p>
