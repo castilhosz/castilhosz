@@ -7,7 +7,7 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hi dear, my name is Arthur Castilhos and I'm currently 15 years old,<br> I'm working on <a href="https://github.com/arthrrc/GenPodcast">Gen Podcast</a> talking about various topics and how <br> young people deal with everyday situations  I'm studying <a href="https://nodejs.org/en/">NodeJS</a>,<br> <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> and last but not least <a href="https://www.typescriptlang.org/">Typescript</a> 
+Hi dear, my name is Arthur Castilhos and I'm currently 15 years old,<br> In the moment I'm search an opportunity in the marketplace and freelances jobs. I'm studying a lot <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> and <a href="https://nodejs.org">NodeJS</a>
 </p>
 <!-- QUOTE -->
 <br>
