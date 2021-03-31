@@ -26,11 +26,11 @@ Hi dear, my name is Arthur Castilhos and I'm currently 15 years old,<br> In the 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arthrrc&show_icons=true&theme=graywhite" alt="arthrc"/>
+<img src="https://github-readme-stats.vercel.app/api?username=artwesz&show_icons=true&theme=graywhite" alt="artwesz"/>
 </p>
 
 <p align="center">
-<a href="https://twitter.com/arthrrc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_arthrc_" height="20" width="20" /></a>
-<a href="https://www.instagram.com/arthrrc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthrc" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/arthrc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="miguelrisquelme" height="20" width="20" /></a>
+<a href="https://twitter.com/artwesz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_arthrc_" height="20" width="20" /></a>
+<a href="https://www.instagram.com/artwesz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthrc" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/artwesz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="miguelrisquelme" height="20" width="20" /></a>
 </p>
