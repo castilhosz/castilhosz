@@ -26,7 +26,7 @@ Hi dear, my name is Arthur Castilhos and I'm currently 15 years old,<br> In the 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=art_castilhos&show_icons=true&theme=graywhite" alt="art_castilhos"/>
+<img src="https://github-readme-stats.vercel.app/api?username=artcastilhos&show_icons=true&theme=graywhite" alt="artcastilhos"/>
 </p>
 
 <p align="center">
