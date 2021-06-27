@@ -30,7 +30,7 @@ Hi dear, my name is Arthur Castilhos and I'm currently 15 years old,<br> In the 
 </p>
 
 <p align="center">
-<a href="https://twitter.com/castilhosz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="castilhosz" height="20" width="20" /></a>
+<a href="https://twitter.com/castilhosz_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="castilhosz" height="20" width="20" /></a>
 <a href="https://www.instagram.com/castilhosz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="castilhosz" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/castilhosz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="castilhosz" height="20" width="20" /></a>
 </p>
