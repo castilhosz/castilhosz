@@ -1,13 +1,13 @@
 <!-- HEADER -->
 <p align="center">
   <samp>
-    👋 Hi there! I write some codes!
+    👋 Hi there, I'm Arthur!
   </samp>
 </p>
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hi dear, my name is Arthur Castilhos and I'm currently 16 years old,<br> In the moment I'm search an opportunity in the marketplace and freelances jobs.<br/> I'm studying a lot <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> and <a href="https://nodejs.org">NodeJS</a>
+I'm a 16 year old high schooler who enjoys writing some code. <br>Currently studying React and NodeJS by myself. I have a lot of free time, <br>so if you need help with anything, get in touch with me!
 </p>
 <!-- QUOTE -->
 <br>
